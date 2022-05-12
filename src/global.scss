@@ -1,0 +1,54 @@
+$width:768px;
+$smartphone:570px;
+$tablet:1415px;
+$notebook:1600px;
+$mini:395px;
+$normalSize:1930px;
+$testSmartphone:800px;
+$maxHeightSetup:950px;
+@mixin mobile{
+    @media (max-width: #{$width}){
+        @content;
+    }
+}
+@mixin mobileHeight{
+    @media (max-height: #{$testSmartphone}){
+        @content;
+    }
+}
+@mixin mobileWidth{
+    @media (max-width: #{$testSmartphone}){
+        @content;
+    }
+}
+@mixin minMobile{
+    @media (max-width: #{$smartphone}){
+        @content;
+    }
+}
+@mixin tablet{
+    @media (max-width: #{$tablet}){
+        @content;
+    }
+}
+@mixin notebook{
+    @media (max-width: #{$notebook}){
+        @content;
+    }
+}
+@mixin mini{
+    @media(max-width:#{$mini}){
+        @content;
+    }
+}
+@mixin normalSize{
+    @media(max-width:#{$normalSize}){
+        @content;
+    }
+}
+@mixin maxHeightSetup{
+    @media(max-width:#{$maxHeightSetup}){
+        @content;
+    }
+}
+
