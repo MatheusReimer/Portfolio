@@ -48,7 +48,7 @@ function Content() {
                     <img src={Third}></img>
                 </a>
                 <div className='imageDescriptionLayerDefault'>
-                <p className='imageDescriptionDate'>2017-2018</p>
+                <p className='imageDescriptionDate'>2022</p>
                 <p className='imgDescription'>Minimum Spanning Tree</p>
                 </div>
                 <div className='imageDescriptionLayer'>
