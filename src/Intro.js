@@ -55,20 +55,7 @@ function Intro() {
                       <li><a href="https://api.whatsapp.com/send?phone=5547991101803&text=Hello%20Matheus%21%20I%20would%20like%20to%20chat%20.">Whatsapp</a></li>
                   </ul>
               </div>
-              <div className='nav-items-container'>
-              <ul className="nav-items">
-                <li className="nav-item">
-                <Link
-                activeClass="active"
-                to="content"
-                spy={true}
-                smooth={true}
-                duration={1000}
-                >
-                See more<FaMouse className="icon" ></FaMouse>
-                </Link>
-                </li></ul>
-                </div>
+              
           </div>
       </div>
     );

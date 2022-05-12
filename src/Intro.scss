@@ -88,20 +88,7 @@ html,body
             align-items: center;
             text-align: center;
         }
-        .nav-items-container{
-            visibility: hidden;
-            @include maxHeightSetup {
-                visibility: visible;
-            }
-            color: white;
-            ul{
-                list-style:none;
-                li{
-                    font-size: 20px;
-                    
-                }
-            }
-        }
+        
         .leftContent{
             margin-top: 5%;
             width: 70%;
@@ -142,6 +129,10 @@ html,body
                         text-decoration: none;
                         color: white;
                         cursor: pointer;
+                                            
+                    @include maxHeightSetup {
+                        visibility: visible;
+                    }
                     }
                     img{
                         height: 20px;
