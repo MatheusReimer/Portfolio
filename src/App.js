@@ -20,8 +20,9 @@ function App() {
       <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/MusiQuizz" element={<Musiquizz/>} />
+          <Route path="/Portfolio" element={<Home/>} />
+
       </Routes>
-    
     </div>
   </BrowserRouter>
 );
