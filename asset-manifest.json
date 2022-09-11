@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e0d7349c.css",
+    "main.js": "/Portfolio/static/js/main.7de895cf.js",
+    "static/media/third.jpg": "/Portfolio/static/media/third.54c8d38c2da4f1900ec8.jpg",
+    "static/media/fourth.jpg": "/Portfolio/static/media/fourth.f87b1dcd346557d00da9.jpg",
+    "static/media/sec.jpg": "/Portfolio/static/media/sec.c853ace07563efaaaf14.jpg",
+    "static/media/fifth.jpg": "/Portfolio/static/media/fifth.c026f6c3d31480766f31.jpg",
+    "static/media/sixth.jpg": "/Portfolio/static/media/sixth.57509c87fc4bc4a773d8.jpg",
+    "static/media/first.jpg": "/Portfolio/static/media/first.9d05a9c38f462d4420c6.jpg",
+    "static/media/brasil.png": "/Portfolio/static/media/brasil.d5d82beca796f94ba42c.png",
+    "static/media/estados-unidos.png": "/Portfolio/static/media/estados-unidos.4d9d990626a3df96a265.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.d3752ed5244746b1b0f5.png",
+    "static/media/alemanha.png": "/Portfolio/static/media/alemanha.cc670a050b591bf6656d.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e0d7349c.css.map": "/Portfolio/static/css/main.e0d7349c.css.map",
+    "main.7de895cf.js.map": "/Portfolio/static/js/main.7de895cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d7349c.css",
+    "static/js/main.7de895cf.js"
+  ]
+}
