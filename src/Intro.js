@@ -49,7 +49,7 @@ function Intro() {
               <div className="rightContent">
                   <ul>
                       <li><a href="https://www.linkedin.com/in/matheus-reimer-636b10187/">Linkedin</a></li>
-                      <li><a href="https://www.github.com/MatheusReimer"></a>Github</li>
+                      <li><a href="https://github.com/MatheusReimer?tab=repositories">GitHub</a></li>
                       <li><a href='https://stackoverflow.com/users/15334564/matheus-reimer'></a>StackOverflow</li>
                       <li><a href="mailto:matheusreimer1@gmail.com">E-mail</a></li>
                       <li><a href="https://api.whatsapp.com/send?phone=5547991101803&text=Hello%20Matheus%21%20I%20would%20like%20to%20chat%20.">Whatsapp</a></li>
